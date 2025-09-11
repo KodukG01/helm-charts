@@ -1,5 +1,5 @@
 deployment:
   replicas: 20
-  imageVersion: latest #stable-otel 
+  imageVersion: edge-alpine
 service:
   targetPort: 80
