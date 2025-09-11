@@ -1,5 +1,5 @@
 deployment:
-  replicas: 4
+  replicas: 20
   imageVersion: latest #stable-otel 
 service:
   targetPort: 80
